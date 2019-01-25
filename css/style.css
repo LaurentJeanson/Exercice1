@@ -52,7 +52,9 @@ header{
 }
 main{
 	border: 1px solid yellow;
+	background-color: lightgray;
 }
 footer{
 	border: 1px solid green;
+	background-color: gray;
 }
